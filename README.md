@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi I'm Sagar T
 I' am Currently Studying on BMSIT College<br>All of my projects are available on Github<br>I regularly upload videos on my youtube channle<br>Check  out my resume
 
 
