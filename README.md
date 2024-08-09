@@ -2,7 +2,7 @@
 I' am Currently Studying on BMSIT College<br>All of my projects are available on Github<br>I regularly upload videos on my youtube channle<br>Check  out my resume
 
 ## 🌐 Socials:
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=whiteInstagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sagar_sag1) [![)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)!   [X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)
 
 
 
