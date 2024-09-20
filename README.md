@@ -1,5 +1,5 @@
 # Hi 👋🏻 I'm Sagar T
-I' am Currently Studying on BMSIT College<br>All of my projects are available on [Github](https://github.com/hifiSagar)<br>Check out my resume
+I' am Currently Studying on BMSIT College<br>All of my projects are available on [Github](https://github.com/hifiSagar)<br>
  
 ## 🌐 Socials:
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)  ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)
